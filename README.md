@@ -6,7 +6,7 @@ Desenvolvedora front-end com experiência em React, Shopify e ambientes cloud. F
 
 ## Experiência Profissional
 
-### **Vasta Educação (2025 — atual)**
+### **Vasta (2025 — atual)**
 **Front-End Developer — Shopify**  
 - Desenvolvimento e manutenção de lojas Shopify.  
 - Criação de temas, customizações e integrações.  
