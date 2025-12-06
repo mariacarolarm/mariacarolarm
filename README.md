@@ -1,46 +1,54 @@
-# Olá! 👋
+# Maria Mendes — Front-End Developer | Shopify & Cloud
 
-Meu nome é Maria Carolina Reis Mendes, tenho 32 anos. Sou bacharel em Psicologia e trabalhei no setor de saúde pública por dois anos após minha graduação. Depois disso, gerenciei uma loja no varejo por três anos, até decidir mudar de carreira para me tornar desenvolvedora.
+Desenvolvedora front-end com experiência em React, Shopify e ambientes cloud. Formada pela Trybe e atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-## Minha Jornada na Tecnologia
+---
 
-Comecei meus estudos na Trybe há cerca de um ano, e me dediquei e mergulhei profundamente no mundo da tecnologia. Apaixonei-me pelas possibilidades na área e também pelo aspecto desafiador dela. Desenvolvi alguns projetos exigidos no curso, usando algumas das tecnologias mais requisitadas atualmente. Atualmente estudo Análise e Desenvolvimento de Sistemas na Uniasselvi.
+## Experiência Profissional
 
-### Front-End
-- **React**: Desenvolvi aplicações interativas e dinâmicas.
-- **JavaScript/TypeScript**: Construí código escalável e de fácil manutenção.
-- **Testes Unitários com Jest**: Garanti a qualidade do código através de testes automatizados.
+### **Vasta Educação (2025 — atual)**
+**Front-End Developer — Shopify**  
+- Desenvolvimento e manutenção de lojas Shopify.  
+- Criação de temas, customizações e integrações.  
+- Atuação com Shopify Liquid.
 
-### Back-End
-- **TypeScript**: Usei para desenvolver a lógica do servidor.
-- **Docker**: Containerização de aplicações para garantir portabilidade.
-- **SQL**: Gerenciamento e consulta de bancos de dados relacionais.
-- **API's RESTful**: Criação de APIs para comunicação entre serviços.
-- **Testes de Integração e Unitários com Chai, Mocha e Sinon**: Assegurei o funcionamento correto das funcionalidades.
-- **Autenticação com JWT**: Implementei segurança e controle de acesso nas aplicações.
+### **Compass UOL (2024 — 2025)**
+**Estagiária em Desenvolvimento Front-End**  
+- Foco em React, TypeScript e boas práticas de arquitetura.  
+- Experiência prática com AWS (Lambda, S3, CloudFront, DynamoDB).  
+- Desenvolvimento de aplicações escaláveis em ambiente cloud.
 
-## Habilidades
+---
 
-### Desenvolvimento Front-End
-- **HTML/CSS**: Construção de páginas web semânticas e responsivas.
-- **Styled-Components**: Criação de estilos dinâmicos e reutilizáveis em aplicações React.
-- **Design Responsivo**: Implementação de layouts que funcionam bem em dispositivos móveis e desktops.
+## Tecnologias & Ferramentas
 
-### Desenvolvimento Back-End
-- **Node.js e Express**: Desenvolvimento de servidores e APIs eficientes.
-- **Autenticação e Autorização**: Implementação de segurança com JWT.
+### **Front-End**
+- React, JavaScript, TypeScript
+- CSS, Tailwind, Styled-Components  
+- Testes com Jest  
 
-### Ferramentas e Plataformas
-- **Git & GitHub**: Controle de versão e colaboração em projetos.
-- **Visual Studio Code**: Meu ambiente de desenvolvimento preferido.
+### **Shopify**
+- Shopify Liquid  
+- Shopify CLI  
+- Hydrogen / Headless Commerce  
 
-### Outras Habilidades
-- **Resolução de Problemas**: Abordagem analítica e criativa para resolver problemas.
-- **Trabalho em Equipe e Comunicação**: Colaboração eficaz em ambientes de ritmo acelerado.
-- **Comprometimento e Pensamento Crítico**: Entrega de trabalho de alta qualidade e melhoria contínua.
+### **Back-End**
+- Node.js, Express  
+- SQL  
+- Docker  
+- REST APIs  
+
+### **Cloud**
+- AWS (Cloud Practitioner Certified)
+
+---
+
+## Certificações
+- **AWS Cloud Practitioner**  
+- **Shopify Headless Badge**
+
+---
 
 ## Contato
-
-Sinta-se à vontade para entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/maria-mendes-dev/) ou por [email](mailto:marycarol.00@gmail.com) se quiser se conectar ou discutir alguma oportunidade.
-
-Obrigado por visitar meu perfil do GitHub!
+- **LinkedIn:** https://www.linkedin.com/in/maria-mendes-dev/  
+- **Email:** marycarol.00@gmail.com
